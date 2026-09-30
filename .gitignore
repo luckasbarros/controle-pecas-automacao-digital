@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+dados_pecas.json
+dados_pecas.json.tmp
+relatorio_pecas.txt
+tmp_docx_render/
+evidencias/
+TRABALHO_TEORICO.md
+TRABALHO_TEORICO.docx
+ROTEIRO_VIDEO.md
+gerar_documento.py
